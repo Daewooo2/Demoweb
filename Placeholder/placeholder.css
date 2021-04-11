@@ -1,0 +1,16 @@
+body { background-image: url("bluething.jpeg");
+font-family: 'Fugaz' fantasy;
+color:#DBD116;
+}
+main {
+min-height:95vh;
+display:flex;
+flex-flow: column wrap;
+align-content: stretch;
+
+}
+.title {
+font-size: 5rem;
+margin:2rem;
+flex-grow: 1;
+}
