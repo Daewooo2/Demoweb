@@ -1,0 +1,70 @@
+body {
+  margin:0;
+  padding:0;
+  background-image: url(webback.jpeg); /*by NichoDesign is licensed under CC BY-NC-SA 2.0*/
+  background:Bluebac.jpeg no-repeat center center fixed;
+  background-size: cover;}
+
+
+.container{	font-family: 'Lora', serif;
+	display: flex;
+	flex-direction: column;
+	height: 450px;
+	color: black;
+
+}
+
+
+
+a:link{
+	color: Blue;
+}
+a:visited {
+	color: Red;
+}
+.header{color:#74FCB8;
+text-align:center;
+border:solid blue;
+}
+h1,h2,h3{margin:3;}
+.content {padding:10px;}
+
+
+.head
+{display:flex;
+align-items:flex-start;
+border:5px solid blue}
+
+.nav {
+float:right;
+display:flex;
+flex-direction:column;
+align-items:flex-end;
+border:5px Solid blue;
+}
+
+
+.nav ul {
+display:flex;
+flex-direction:column;
+margin:0;
+padding:0;
+list-style-type:none;
+text-align:left;
+
+
+}
+
+.main-aboutus {width:1800px;
+text-align:left;
+}
+.main {width:1800px;
+text-align:left;
+}
+
+.footer{clear:both;
+display: flex;
+border:10px solid black;
+align-items:baseline;
+justify-content:space-between;
+}
