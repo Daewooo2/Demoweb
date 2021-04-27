@@ -238,18 +238,29 @@ ul.activities-content{
   margin:0;
 }
 .activities1-left{flex-basis:40%;
+  display:flex;
+    flex-wrap:wrap;
 background-image:url(python.jpeg); /*by fwalloe is licensed under CC BY 2.0*/}
-.activities1-right{
+.activities1-right{display:flex;
+  flex-wrap:wrap;
   flex-basis:60%;}
 
-  .activities2-left{flex-basis:40%;
+  .activities2-left{display:flex;
+    flex-wrap:wrap;
+    flex-basis:40%;
   background-image:url(server.jpeg); /*by jeroen_bennink is licensed under CC BY 2.0*/}
   .activities2-right{
+    display:flex;
+      flex-wrap:wrap;
     flex-basis:60%;}
 
-    .activities3-left{flex-basis:40%;
+    .activities3-left{display:flex;
+      flex-wrap:wrap;
+      flex-basis:40%;
     background-image:url(keyboard1.jpeg); /*by fsse8info is licensed under CC BY-SA 2.0*/}
     .activities3-right{
+      display:flex;
+        flex-wrap:wrap;
       flex-basis:60%;}
 
 @media (max-width:1000px){
