@@ -253,7 +253,7 @@ background-image:url(python.jpeg); /*by fwalloe is licensed under CC BY 2.0*/}
       flex-basis:60%;}
 
 @media (max-width:1000px){
-  services-content li{
+  activities-content li{
     flex-basis:100%;
     margin-bottom:65px;
   }
