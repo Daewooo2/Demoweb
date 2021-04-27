@@ -225,8 +225,7 @@ ul.activities-content{
 
 }
 .activities-content li{
-  display:flex;
-  flex-wrap:wrap;
+
   padding:0 30px;
   flex-basis:33%;
   text-align:center;
