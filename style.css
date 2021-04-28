@@ -225,10 +225,9 @@ ul.activities-content{
 
 }
 .activities-content li{
-  max-width: 800px;
   background-position:left;
-  padding:50px;
-  margin:20px;
+  padding:65px;
+  margin:10px;
   flex-basis:45%;
   text-align:center;
   background-repeat: no-repeat, repeat;
@@ -236,13 +235,14 @@ ul.activities-content{
 
 }
 .activities-content li h4{
+  text-align:center;
   font-size:35px;
   margin-bottom:25px;
 
 }
 .activities-content li p{
-  font-size:22px;
-  margin:0;
+  font-size:18px;
+  margin-bottom:0;
 }
 .activities1-left{
 
@@ -277,7 +277,9 @@ ul.activities-content{
 
   }
   .activities-content li p{
-    padding:0;
+    width: 450px;
+    margin: auto;
+    padding:10px;
   }
 }
 
