@@ -228,8 +228,8 @@ ul.activities-content{
   background-position:left;
   padding:50px;
   margin:20px;
-  flex-basis:45%;
-  text-align:center;
+  flex-basis:35%;
+  text-align:left;
   background-repeat: no-repeat, repeat;
   background-size:cover;
 
