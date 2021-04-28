@@ -225,6 +225,7 @@ ul.activities-content{
 
 }
 .activities-content li{
+  max-width: 800px;
   background-position:left;
   padding:50px;
   margin:20px;
