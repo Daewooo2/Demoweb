@@ -226,10 +226,10 @@ ul.activities-content{
 }
 .activities-content li{
   background-position:left;
-  padding:50px;
+  padding:40px;
   margin:20px;
   flex-basis:45%;
-  text-align:left;
+  text-align:center;
   background-repeat: no-repeat, repeat;
   background-size:cover;
 
@@ -256,7 +256,7 @@ ul.activities-content{
     flex-basis:40%;
   background-image:url(python.jpeg); /*by fwalloe is licensed under CC BY 2.0*/}
   .activities2-right{
-    font-size:12px;
+
     flex-basis:60%;}
 
     .activities3-left{
