@@ -256,7 +256,7 @@ ul.activities-content{
     flex-basis:40%;
   background-image:url(python.jpeg); /*by fwalloe is licensed under CC BY 2.0*/}
   .activities2-right{
-
+    font-size:12px;
     flex-basis:60%;}
 
     .activities3-left{
