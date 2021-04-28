@@ -229,7 +229,7 @@ ul.activities-content{
   padding:50px;
   margin:20px;
   flex-basis:45%;
-  text-align:center;
+  text-align:left;
   background-repeat: no-repeat, repeat;
   background-size:cover;
 
@@ -240,7 +240,7 @@ ul.activities-content{
 
 }
 .activities-content li p{
-  font-size:12px;
+  font-size:22px;
   margin:0;
 }
 .activities1-left{
