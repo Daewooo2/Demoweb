@@ -214,7 +214,7 @@ background-image:url(computercamp.jpeg); /*by World Bank Photo Collection is lic
   background:#ddd;
 }
 ul.activities-content{
-  width:110%;
+  width:100%;
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
