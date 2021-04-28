@@ -232,6 +232,11 @@ ul.activities-content{
   text-align:center;
   background-repeat: no-repeat, repeat;
   background-size:cover;
+  max-width:800px;
+  margin-bottom:35px;
+  line-height:1.5;
+  text-align:left;
+  padding-left:0;
 
 }
 .activities-content li h4{
